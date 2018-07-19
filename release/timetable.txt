@@ -1,0 +1,3265 @@
+
+
+
+
+<html lang="zh-CN">
+<head>
+<title>学生选课结果</title>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<link href="/css/newcss/project.css" rel="stylesheet" type="text/css">
+
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="0" style="overflow:auto;">
+
+
+
+
+
+
+
+
+
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr><td class="Linetop"></td>
+</tr>
+</table>
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="title" id="tblHead">
+ <tr>
+  <td>
+   <table border="0" width="100%" cellpadding="0" cellspacing="0" >
+   <tr>
+   <td width="50%" align="left" valign="middle">&nbsp;<b>选课结果(已安排时间地点)</b>&nbsp;</td>
+
+<td width="50%" align="right">
+
+2018年07月10日15时11分
+
+</td>
+</tr>
+   </table>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0"  >
+ <tr>
+  <td class="Linetop"></td>
+ </tr>
+</table>
+
+
+
+
+
+
+
+
+
+<link href="/css/newcss/project.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" class="titleTop2">
+		 <tr>
+		  <td class="pageAlign">
+		   <table cellpadding="0" width="100%" class="displayTag" cellspacing="1" border="0" id="user">
+				<tr>
+    <td colspan="2" class="sortable">&nbsp;</td>
+
+
+    <td width="13%" class="sortable">
+    <div align="center">
+	
+			星期一
+			
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+	
+			星期二
+			
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+	
+			星期三
+			
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+	
+			星期四
+			
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+	
+			星期五
+			
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+	
+			星期六
+			
+	</div>
+	</td>
+
+    <td width="13%" class="sortable">
+    <div align="center">
+	
+			星期日
+			
+	</div>
+	</td>
+
+</tr>
+
+
+
+
+
+
+<tr bgcolor="#FFFFFF">
+
+<td width="3%" rowspan="4">&nbsp;<p class="style4">上午</p></td>
+
+
+			  <td width="11%">第一节</td>
+			 
+  
+    <td>&nbsp;
+
+     大学英语（阅读与翻译）-2_36(江安综合楼B座B405)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     微积分（Ⅰ）-2_31(江安一教B座B104)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     汇编语言程序设计课程设计_01(江安实验室二基楼B301)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     中国近现代史纲要_62(江安一教B座B501)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第二节</td>
+			 
+  
+    <td>&nbsp;
+
+     大学英语（阅读与翻译）-2_36(江安综合楼B座B405)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     微积分（Ⅰ）-2_31(江安一教B座B104)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     汇编语言程序设计课程设计_01(江安实验室二基楼B301)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     大学英语（口语）-2_27(江安一教A座A110)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     中国近现代史纲要_62(江安一教B座B501)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第三节</td>
+			 
+  
+    <td>&nbsp;
+
+     概率统计（理工）_37(江安一教B座B203)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     军事理论_11(江安一教B座B207)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     大学物理（理工）Ⅲ-1_12(江安一教A座A218)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     概率统计（理工）_37(江安一教B座B202)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     体育-2_09(江安体育场体育场2号)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第四节</td>
+			 
+  
+    <td>&nbsp;
+
+     概率统计（理工）_37(江安一教B座B203)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     军事理论_11(江安一教B座B207)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     大学物理（理工）Ⅲ-1_12(江安一教A座A218)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     概率统计（理工）_37(江安一教B座B202)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     体育-2_09(江安体育场体育场2号)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+<tr bgcolor="#FFFFFF">
+    <td colspan="9">&nbsp;<p align="center" class="td2 style5"><strong>午 休</strong></p></td>
+</tr>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+<td width="3%" rowspan="5">&nbsp;<p class="style4">下午</p></td>
+
+
+			  <td width="11%">第五节</td>
+			 
+  
+    <td>&nbsp;
+
+     大学物理实验（理工）Ⅲ-1_03(江安实验室二基楼A317)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     网页设计与制作_01(江安综合楼C座C203)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     词汇的奥秘-英语单词记忆捷径_01(江安综合楼C座C305)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     微积分（Ⅰ）-2_31(江安一教B座B104)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第六节</td>
+			 
+  
+    <td>&nbsp;
+
+     大学物理实验（理工）Ⅲ-1_03(江安实验室二基楼A317)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     网页设计与制作_01(江安综合楼C座C203)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     词汇的奥秘-英语单词记忆捷径_01(江安综合楼C座C305)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     微积分（Ⅰ）-2_31(江安一教B座B104)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第七节</td>
+			 
+  
+    <td>&nbsp;
+
+     大学物理实验（理工）Ⅲ-1_03(江安实验室二基楼A317)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     网页设计与制作_01(江安综合楼C座C203)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     词汇的奥秘-英语单词记忆捷径_01(江安综合楼C座C305)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     微积分（Ⅰ）-2_31(江安一教B座B104)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第八节</td>
+			 
+  
+    <td>&nbsp;
+
+     大学物理实验（理工）Ⅲ-1_03(江安实验室二基楼A317)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     高级语言程序设计-Ⅱ_07(江安综合楼B座B403)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     形势与政策-2_26(江安一教B座B307)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第九节</td>
+			 
+  
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     高级语言程序设计-Ⅱ_07(江安综合楼B座B403)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+     形势与政策-2_26(江安一教B座B307)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+<tr bgcolor="#FFFFFF">
+    <td colspan="9">&nbsp;<p align="center" class="td2 style5"><strong>晚 饭</strong></p></td>
+</tr>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+<td width="3%" rowspan="4">&nbsp;<p class="style4">晚上</p></td>
+
+
+			  <td width="11%">第十节</td>
+			 
+  
+    <td>&nbsp;
+
+     中华文化（历史篇）_01(江安一教A座水上报告厅)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     汇编语言程序设计_01(江安文科楼二区214)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第十一节</td>
+			 
+  
+    <td>&nbsp;
+
+     中华文化（历史篇）_01(江安一教A座水上报告厅)<br>
+
+</td>
+
+    <td>&nbsp;
+
+     汇编语言程序设计_01(江安文科楼二区214)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第十二节</td>
+			 
+  
+    <td>&nbsp;
+
+     中华文化（历史篇）_01(江安一教A座水上报告厅)<br>
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+<tr bgcolor="#FFFFFF">
+
+
+			  <td width="11%">第十三节</td>
+			 
+  
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+    <td>&nbsp;
+
+&nbsp;
+
+</td>
+
+  </tr>
+
+</table>
+</td>
+</tr>
+</table>
+
+<!--
+
+
+
+
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr><td class="Linetop"></td>
+</tr>
+</table>
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="title" id="tblHead">
+ <tr>
+  <td>
+   <table border="0" width="100%" cellpadding="0" cellspacing="0" >
+   <tr>
+   <td width="50%" align="left" valign="middle">&nbsp;<b>选课结果列表</b>&nbsp;</td>
+
+<td width="50%" align="right">
+
+</td>
+</tr>
+   </table>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0"  >
+ <tr>
+  <td class="Linetop"></td>
+ </tr>
+</table>
+-->
+
+
+
+
+
+
+
+
+<link href="/css/newcss/project.css" rel="stylesheet" type="text/css">
+ 
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="titleTop2">
+					 <tr>
+					  <td class="pageAlign">
+					   <table cellpadding="0" width="100%" class="displayTag" cellspacing="1" border="0" id="user">
+					    <thead>
+							<tr>
+
+
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;培养方案</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;课程号</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;课程名</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;课序号</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;学分</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;课程属性</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;考试类型</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;教师</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;大纲日历</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;修读方式</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;选课状态</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;周次</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;星期</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;节次</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;校区</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;教学楼</th>
+
+
+
+
+<th align="center" width="100" class="sortable">&nbsp;教室</th>
+
+
+</tr>
+</thead>
+
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td>
+	&nbsp;
+		
+		
+			计算机科学与技术培养方案</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			304147010</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			编程实战</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			05</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			1.0</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			选修</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			考查</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			蒲林梅* </td>
+		
+
+		
+
+
+		<td align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=304147010&kxh=05"></td>
+
+
+		<td>
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			304026020</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			汇编语言程序设计</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			01</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			2.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			唐宁九* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=304026020&kxh=01"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			抽中</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 2</td>
+
+			  <td>&nbsp;10~11</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 文科楼二区</td>
+
+<td>&nbsp; 214</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			904013020</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			网页设计与制作</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			01</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			2.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			任选</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考查</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			蒋正茂* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=904013020&kxh=01"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			选中</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 2-13周</td>
+
+<td>&nbsp; 2</td>
+
+			  <td>&nbsp;5~7</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 综合楼C座</td>
+
+<td>&nbsp; C203</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			304027010</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			汇编语言程序设计课程设计</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			01</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			1.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考查</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			唐宁九* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=304027010&kxh=01"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			抽中</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 6-16周上</td>
+
+<td>&nbsp; 3</td>
+
+			  <td>&nbsp;1~2</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 实验室</td>
+
+<td>&nbsp; 二基楼B301</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			999005030</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			中华文化（历史篇）</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			01</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			3.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考查</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			李晓宇* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=999005030&kxh=01"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			抽中</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 1</td>
+
+			  <td>&nbsp;10~12</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教A座</td>
+
+<td>&nbsp; 水上报告厅</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			105368020</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			大学英语（阅读与翻译）-2</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			36</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			2.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			吴文静* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=105368020&kxh=36"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 1</td>
+
+			  <td>&nbsp;1~2</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 综合楼B座</td>
+
+<td>&nbsp; B405</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			107060030</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			中国近现代史纲要</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			62</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			3.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			吴国富* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=107060030&kxh=62"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 5</td>
+
+			  <td>&nbsp;1~2</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教B座</td>
+
+<td>&nbsp; B501</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			107116000</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			形势与政策-2</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			26</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			0.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			丁莎* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=107116000&kxh=26"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 单周</td>
+
+<td>&nbsp; 5</td>
+
+			  <td>&nbsp;8~9</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教B座</td>
+
+<td>&nbsp; B307</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			888005010</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			体育-2</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			09</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			1.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			ty9* 邓静涛 胡毅非 许庆华 唐轩梅 易小东 李山花 李燕桥 计丽萍 余利容 谢相和 黄甜 卓岩 董重 孙卫国 王炜 董强 张一民 许达 谢胜 </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=888005010&kxh=09"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-12周上</td>
+
+<td>&nbsp; 5</td>
+
+			  <td>&nbsp;3~4</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 体育场</td>
+
+<td>&nbsp; 体育场2号</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			201138040</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			微积分（Ⅰ）-2</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			31</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			4.0</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			高波* </td>
+		
+
+		
+
+
+		<td rowspan="2" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=201138040&kxh=31"></td>
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 2</td>
+
+			  <td>&nbsp;1~2</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教B座</td>
+
+<td>&nbsp; B104</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 4</td>
+
+			  <td>&nbsp;5~7</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教B座</td>
+
+<td>&nbsp; B104</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			304024030</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			高级语言程序设计-Ⅱ</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			07</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			3.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			陈良银* 吴琼 </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=304024030&kxh=07"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 2</td>
+
+			  <td>&nbsp;8~9</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 综合楼B座</td>
+
+<td>&nbsp; B403</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			201018030</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			概率统计（理工）</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			37</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			3.0</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			高延* </td>
+		
+
+		
+
+
+		<td rowspan="2" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=201018030&kxh=37"></td>
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="2" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 4</td>
+
+			  <td>&nbsp;3~4</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教B座</td>
+
+<td>&nbsp; B202</td>
+
+</tr>
+
+
+<tr class=odd onMouseOut=this.className='even'; onMouseOver=this.className='evenfocus';>
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 1</td>
+
+			  <td>&nbsp;3~4</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教B座</td>
+
+<td>&nbsp; B203</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			202041020</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			大学物理实验（理工）Ⅲ-1</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			03</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			2.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			选修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			郝彦军* 张志友 胡险峰 田野中 李娟 饶大庆 穆万军 何原 </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=202041020&kxh=03"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-8周上</td>
+
+<td>&nbsp; 1</td>
+
+			  <td>&nbsp;5~8</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 实验室</td>
+
+<td>&nbsp; 二基楼A317</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			105369010</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			大学英语（口语）-2</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			27</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			1.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			外聘23（外语）* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=105369010&kxh=27"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 4</td>
+
+			  <td>&nbsp;2~2</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教A座</td>
+
+<td>&nbsp; A110</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			900001010</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			军事理论</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			11</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			1.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			林旭伟* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=900001010&kxh=11"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-9周上</td>
+
+<td>&nbsp; 2</td>
+
+			  <td>&nbsp;3~4</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教B座</td>
+
+<td>&nbsp; B207</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td>
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			900003000</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			军训</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			16</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			0.0</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			必修</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			唐伦强* </td>
+		
+
+		
+
+
+		<td align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=900003000&kxh=16"></td>
+
+
+		<td>
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td>
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			202027020</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			大学物理（理工）Ⅲ-1</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			12</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			2.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			选修</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			考试</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			冯安平* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=202027020&kxh=12"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			置入</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 1-17周</td>
+
+<td>&nbsp; 3</td>
+
+			  <td>&nbsp;3~4</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 一教A座</td>
+
+<td>&nbsp; A218</td>
+
+</tr>
+
+
+<tr class="odd" onMouseOut="this.className='even';" onMouseOver="this.className='evenfocus';">
+
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			计算机类培养方案</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			105362020</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			词汇的奥秘-英语单词记忆捷径</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			01</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			2.0</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			任选</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			张贵芳* </td>
+		
+
+		
+
+
+		<td rowspan="1" align="center">
+	<img src="/img/icon/calendar.jpg" style="cursor: hand;" title="大纲日历" onclick="CxJxDgRl(this)" name="actionType=6&oper=QueryDgRl&kch=105362020&kxh=01"></td>
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			正常</td>
+		
+
+		
+
+
+		<td rowspan="1" >
+	&nbsp;
+		
+		
+			抽中</td>
+		
+
+		
+
+
+
+
+<td>&nbsp; 2-13周</td>
+
+<td>&nbsp; 3</td>
+
+			  <td>&nbsp;5~7</td>
+			 
+<td>&nbsp; 江安</td>
+
+<td>&nbsp; 综合楼C座</td>
+
+<td>&nbsp; C305</td>
+
+</tr>
+
+</table>
+</td>
+</tr>
+</table>
+<Script language="JavaScript">
+function CxJxDgRl( a){
+	window.open("xkAction.do?"+a.name);
+}
+function show(){
+		
+	
+	}
+</Script>
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0">
+<tr>
+
+<td height="21" bgcolor="#F2F2F2"><div align="right">共33.0学分</div></td>
+
+</tr>
+</table>  
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
